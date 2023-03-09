@@ -36,3 +36,12 @@ https://www.notion.so/358e98c33527454b85776e014725fb1c?pvs=4
 
 https://user-images.githubusercontent.com/71171290/221485066-3f8d73f6-d232-4f07-9741-9f329530e5d8.mp4
 
+
+![image](https://user-images.githubusercontent.com/71171290/223939931-ebd650dd-b299-4e46-94e2-9f1265a4ce9d.png)
+
+
+![image](https://user-images.githubusercontent.com/71171290/223940262-f7e84f60-e2d0-4f14-a1ca-9315b40bbafd.png)
+
+
+![image](https://user-images.githubusercontent.com/71171290/223940450-f1d9db6d-6753-449c-ba07-afc193d7d398.png)
+
