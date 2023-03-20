@@ -8,6 +8,17 @@ https://www.notion.so/358e98c33527454b85776e014725fb1c?pvs=4
 ![image](https://user-images.githubusercontent.com/71171290/221485749-91576641-3e7a-4e80-bf4d-50cb93e863bf.png)
 
 
+키 조작법
+![image](https://user-images.githubusercontent.com/71171290/226287067-75052a27-7aba-49b8-b749-f67368387c9b.png)
+
+
+게임 흐름도
+![image](https://user-images.githubusercontent.com/71171290/226287205-ec6d5217-cf4d-4a4c-ad9c-f06201656bf0.png)
+
+
+체이서 흐름도
+![image](https://user-images.githubusercontent.com/71171290/226287355-5864de4a-697e-40d4-b7f8-d737505d6e1f.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/71171290/221484161-a25a07fd-ce8d-4eee-abd7-2606c5343222.png)
@@ -44,4 +55,3 @@ https://user-images.githubusercontent.com/71171290/221485066-3f8d73f6-d232-4f07-
 
 
 ![image](https://user-images.githubusercontent.com/71171290/223940450-f1d9db6d-6753-449c-ba07-afc193d7d398.png)
-
