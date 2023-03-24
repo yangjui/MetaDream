@@ -2,7 +2,7 @@
  팀프로젝트-공포
 
 
-https://www.notion.so/358e98c33527454b85776e014725fb1c?pvs=4
+https://www.notion.so/e049ecdff4454dd7afcb2f6da2baab20
 
 
 ![image](https://user-images.githubusercontent.com/71171290/221485749-91576641-3e7a-4e80-bf4d-50cb93e863bf.png)
